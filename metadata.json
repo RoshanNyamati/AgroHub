@@ -1,0 +1,6 @@
+{
+  "name": "FieldShare",
+  "description": "High-performance agricultural machinery sharing, geospatial scheduling, and disruption recovery marketplace for smallholder farmers and equipment owners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
